@@ -1,0 +1,7 @@
+name: LWEconomy
+version: '${version}'
+main: ru.d0ublesh0t.lweconomy.LWEconomy
+api-version: '1.16'
+softdepend: [PlaceholderAPI]
+authors: [d0ublesh0t]
+description: none
